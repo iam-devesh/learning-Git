@@ -1,0 +1,7 @@
+request,response cycle
+rest api
+api
+difference between api rest api
+different type of request methods get post put delete header body etc
+2 vedios from namaste JS
+https://www.youtube.com/watch?v=Q-BpqyOT3a8
