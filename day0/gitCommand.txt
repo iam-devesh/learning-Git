@@ -1,0 +1,8 @@
+git init
+git add .
+git commit -m "message"
+git remote -v 
+git branch
+git branch name
+git checkout branchname
+git push origin branchname
